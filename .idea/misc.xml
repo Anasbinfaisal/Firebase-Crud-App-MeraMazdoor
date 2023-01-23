@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Anas/Desktop/Anas/Android Projects/New folder/Firebase-Crud-App-master/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2385" />
+        <entry key="..\:/Users/Anas/Desktop/Anas/Android Projects/New folder/Firebase-Crud-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Anas/Android Projects/New folder/Firebase-Crud-App-master/app/src/main/res/layout/activity_nav_drawer_activty.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Anas/Android Projects/New folder/Firebase-Crud-App-master/app/src/main/res/layout/nav_header_nav_drawer_activty.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/activity_add_course.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/activity_edit_course.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/activity_nav_drawer_activty.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/app_bar_nav_drawer_activty.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/content_nav_drawer_activty.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/course_rv_item.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/layout_leftmenu.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/layout/nav_header_nav_drawer_activty.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/menu/menu_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/Firebase-Crud-App-master/Firebase-Crud-App-master/app/src/main/res/menu/nav_drawer_activty.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/New folder/Firebase-Crud-App-master/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/New folder/Firebase-Crud-App-master/app/src/main/res/layout/activity_nav_drawer_activty.xml" value="0.25" />
+        <entry key="..\:/Users/Anas/Desktop/Uni/Android Projects/New folder/Firebase-Crud-App-master/app/src/main/res/layout/nav_header_nav_drawer_activty.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
